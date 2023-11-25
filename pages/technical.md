@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Technical Work
-category: sample
+category: sample-technical
 permalink: /technical
 ---
