@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Sample Posts
+title: Technical Work
 category: sample
-permalink: /sample-posts
+permalink: /technical
 ---
