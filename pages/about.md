@@ -4,4 +4,6 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Hi! I'm Alex. I’m an audio engineer with experience in audio production, software, and hardware, and a passion for sound, music, physics, and games. Since earning my bachelor's degree in electrical engineering at Cal Poly, San Luis Obispo, I have worked on a variety of projects, including digital/analog guitar pedals and amps, VST plugins, niche retro-revival instruments, pacemakers, and landscape lighting design software. I mix and master music, and contribute to game jam projects in the form of music composition, sound design, audio implementation, and general game programming. When I'm not at my desk, you can find me playing music, rock climbing, or skating with my dog.
+
+If you'd like to connect, follow the social links below, or [drop me a line](mailto:alex@alexzahnaudio.com).
