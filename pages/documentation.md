@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Production & Design Work
-category: samples
+category: sample
 permalink: /production-design
 ---
