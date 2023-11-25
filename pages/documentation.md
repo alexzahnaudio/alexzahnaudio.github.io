@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Documentation
-category: documentation
-permalink: /documentation
+title: Production & Design Work
+category: samples
+permalink: /production-design
 ---
