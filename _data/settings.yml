@@ -16,6 +16,7 @@ menu:
 social:
 - {icon: 'twitter', link:    'https://twitter.com/AlexZahnAudio'}
 - {icon: 'instagram', link:  'https://www.instagram.com/alexzahnaudio/'}
+- {icon: 'github', link:     'https://github.com/alexzahnaudio'}
 - {icon: 'envelope', link:   'mailto:alex@alexzahnaudio.com'}
 
 # Customize site text
