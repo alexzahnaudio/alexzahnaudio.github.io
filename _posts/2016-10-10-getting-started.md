@@ -2,8 +2,8 @@
 layout: post
 title: "Getting Started"
 author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
+categories: sample-technical
+tags: [sample-production,sample-technical]
 image: city-1.jpg
 ---
 
