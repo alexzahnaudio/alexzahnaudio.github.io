@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Started"
 author: "Paul Le"
-categories: sample-production,sample-technical
+categories: [sample-production,sample-technical]
 tags: [sample-production,sample-technical]
 image: city-1.jpg
 ---
