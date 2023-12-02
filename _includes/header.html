@@ -1,10 +1,7 @@
 <header class="site-header">
-  <div class="title">
-    <a href="{{ site.github.url }}/">
-      <img src="{{ site.github.url }}/assets/img/logo.png" width="50" height="50" alt="logo" /> 
-      <h3 class="site-title">{{ site.title }}</h3>
-    </a>
-  </div>
+  <h3 class="site-title">
+    <a href="{{ site.github.url }}/"><img src="{{ site.github.url }}/assets/img/logo.png" width="50" height="50" alt="logo" />{{ site.title }}</a>
+  </h3>
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
