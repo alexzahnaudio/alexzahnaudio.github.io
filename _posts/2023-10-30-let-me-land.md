@@ -7,7 +7,7 @@ tags: sample-production
 image: let-me-land-cover.jpg
 ---
 
-# Cetaceous Bipedal Pop Rock, and the Mixing Thereof.
+# Cetaceous Bipedal Pop Rock, and the Mixing Thereof
 
 The past few months, I had the immense pleasure of mixing a six-song EP for Walk the Whale, an alt-pop band based in San Luis Obispo, CA. Logan and Parker are wonderful people and talented musicians/songwriters, and it was a joy to work with them. The EP tells their story of taking the leap to move across the country to follow their ambitions, and the challenges that arise in the midst of that. [They have a great blog post here](https://www.walkthewhale.com/blog-news/let-me-land-ep) about their intentions with the EP. 
 
