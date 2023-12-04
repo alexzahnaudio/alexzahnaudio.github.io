@@ -1,3 +1,20 @@
+/* Begin Custom CSS */
+
+.iconcent {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  grid-gap: 10px;
+}
+
+.sitelogo {
+  max-width: 100%;
+  width: 50px;
+}
+
+/* End Custom CSS */
+
+
 .site-header {
   min-height: 56px;
   width: $container-width;
