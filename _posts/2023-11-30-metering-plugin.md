@@ -123,7 +123,9 @@ While it isn't the most aesthetically pleasing component, the stereo correlation
 
 There is a great StackExchange post explaining [one way to calculate stereo correlation](https://dsp.stackexchange.com/questions/17098/correlation-meter/17103#17103) (and [another good explanation](https://www.beis.de/Elektronik/Correlation/CorrelationCorrectAndWrong.html) with a nifty block diagram for my fellow hardware nerds). Take a look at the numerator and denominator of the equation, keeping in mind that the audio samples range from -1 to 1. The numerator and denominator are effectively the same thing, just with the sign (polarity) removed from the denominator by way of the squaring. The sign of the resulting correlation is a result of solely the product in the numerator. For example, left and right samples of 1 and 1 respectively, or -1 and -1, would both result in a correlation ratio of 1, while left and right samples of 1 and -1 would result in a correlation ratio of -1. A low-pass filter with rectangular windowing is applied to each of the terms to effectively get a moving average.
 
-$Correlation = \frac{ LPF(Left\ *\ Right) }{ \sqrt{LPF(Left^2)\ *\ LPF(Right^2)} }$
+```math
+Correlation = \frac{ LPF(Left\ *\ Right) }{ \sqrt{LPF(Left^2)\ *\ LPF(Right^2)} }
+```
 
 If I implement a correlation meter in the future, I may opt to make the moving average period user-adjustable, but in this case I stuck with a fixed period. After some experimentation, I found that a low pass filter cutoff frequency of 10 Hz (resulting in a period of 100 ms) felt the most appropriate. I feed the result into a slower averager as well, to get both a "fast" and "slow" average correlation meter. The correlation meter component's constructor body looks like this:
 
