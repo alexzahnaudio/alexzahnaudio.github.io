@@ -4,7 +4,7 @@ title: "Software & Hardware Engineering - Panoptigon"
 author: "Alex Zahn"
 categories: sample-technical
 tags: [sample-technical]
-image: panoptigon-full.png
+image: panoptigon-full.jpg
 ---
 
 ## Context
@@ -19,11 +19,15 @@ Most recently, [Quilter Labs](https://www.quilterlabs.com/) (the boutique amp co
 
 In the summer of 2017, I had the opportunity to work at Quilter Labs as an engineering intern. In my time helping with the Panoptigon R&D, I got to experiment and run tests on motor configurations, contribute to the circuit design, do a PCB layout, and work on the firmware run by the on-board microcontroller and DSP unit. I can't go into too much detail about the development, but as the Panoptigon user manual specifically acknowledges the [Spin Semiconductor FV-1](http://www.spinsemi.com/products.html) chip as the onboard DSP effects unit, I can say a bit about that. 
 
+![Panoptigon interface](https://alexzahnaudio.com/assets/img/panoptigon-ui.jpg "Birds-eye view of the Panoptigon")
+
 ## Easy DSP FX, Tiny Package
 
 The Spin FV-1 is an awesome little chip. It's got integrated stereo ADCs and DACs, 3 potentiometer inputs for parameter control, and can run up to 16 unique effect programs, 8 of which are built-in, and 8 of which you can program yourself using the "SpinAsm" assembly language (external EEPROM required). You can achieve some great-sounding effects right out of the box, modify the built-in program code to your liking, or experiment with creating your own effects. 
 
 Recently, I was taking a look at the online resources for the Spin FV-1, and saw that Holy City Audio is developing [SpinCAD Designer](https://github.com/HolyCityAudio/SpinCAD-Designer) an open source Java program with a GUI for designing FV-1 patches. My experience was only with the SpinAsm assembly language, so I can't personally attest to SpinCAD Designer's usefulness, but if you choose to experiment with the Spin FV-1 chip for DSP effects on a project of your own (you should; it's kick-ass), SpinCAD Designer seems like it could be a great tool for rapid effects-program prototyping. That said, writing DSP assembly code is a fun challenge of its own... Pick your poison.
+
+![The Spin FV-1 chip](https://alexzahnaudio.com/assets/img/panoptigon-fv-1.jpg "Glorious, powerful, little audio effects chip")
 
 ## Appreciations
 
