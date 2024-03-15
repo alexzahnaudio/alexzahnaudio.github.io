@@ -24,7 +24,7 @@ Sound waves are just vibrating air, or more technically, wave patterns of air pr
 
 ![Pool boundary wave swallower](https://alexzahnaudio.com/assets/img/acoustics-pool-wave-monster.png "Hungry little guy")
 
-We can do the same kind of thing on our ceiling to swallow up our air waves. All we need is some soft, air-permeable material. As the sound waves pass through the material, the vibrating air hits the fibers of the material, transferring its energy (and converting it into heat).
+We can do the same kind of thing on our ceiling to swallow up our air waves. All we need is some soft, air-permeable material. As the sound waves pass through, the vibrating air hits the fibers of the material, transferring energy and converting it into (a small amount of) heat. 
 
 ### Considerations
 
