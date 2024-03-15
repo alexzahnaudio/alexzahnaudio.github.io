@@ -59,7 +59,7 @@ The build process was relatively straight forward:
 
 ## Quadratic Residue Diffuser
 
-![QR Diffuser](https://alexzahnaudio.com/assets/img/acoustics-diffuser-01 "Wells on wells")
+![QR Diffuser](https://alexzahnaudio.com/assets/img/acoustics-diffuser-02.jpg "Wells on wells")
 
 "Quadratic Residue Diffuser" is a fancy term for what's basically a "reflection-spreader". 
 
