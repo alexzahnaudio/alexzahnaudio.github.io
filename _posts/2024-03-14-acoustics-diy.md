@@ -20,7 +20,7 @@ Brave travelers read on for some dense ramblings about the design and build proc
 
 Slap-back echoes off bare walls are usually pretty obvious to us (remember what it sounded like when you first moved into your house/apartment and walked around in the empty rooms?), but don't be deceived - there's a wall above you too. The time delay from ceiling reflections is usually quick enough that we don't hear them as an audible delay, but rest assured, they're causing resonances at several frequencies, throwing off your ear when mixing. Sound like a problem? It is, but trust me, there's a better solution than removing your ceiling entirely. Hanging "cloud" absorbers can get rid of a large amount of those ceiling reflections. 
 
-Sound waves are just vibrating air, or more technically, wave patterns of air pressure. When they hit a solid boundary (your ceiling), they reflect back, much like water waves hitting the side of a pool. So what if make that boundary... less of a boundary? The aquatic center pool in my hometown comes to mind. The edge of the pool is an open cavity that allows waves to flow in and virtually get swallowed up. 
+Sound waves are just vibrating air, or more technically, wave patterns of air pressure. When they hit a solid boundary (your ceiling), they reflect back, much like water waves hitting the side of a pool. So what if we make that boundary... less of a boundary? The aquatic center pool in my hometown comes to mind. The edge of the pool is an open cavity that allows waves to flow in and virtually get swallowed up. 
 
 ![Pool boundary wave swallower](https://alexzahnaudio.com/assets/img/acoustics-pool-wave-monster.png "Hungry little guy")
 
