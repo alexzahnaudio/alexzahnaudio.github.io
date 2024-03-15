@@ -59,17 +59,17 @@ The build process was relatively straight forward:
 
 ## Quadratic Residue Diffuser
 
-![QR Diffuser](https://alexzahnaudio.com/assets/img/acoustics-diffuser-02.jpg "Wells on wells")
-
 "Quadratic Residue Diffuser" is a fancy term for what's basically a "reflection-spreader". 
 
 ...Okay, I'll admit the former sounds cooler. But essentially, it's a wall-mounted (or on wheels - the world is your oyster) piece of acoustic treatment that has "wells" at various depths, intended to scatter the sound reflections that would otherwise be a fat slap-back echo off a solid wall.
 
+![QR Diffuser](https://alexzahnaudio.com/assets/img/acoustics-diffuser-02.jpg "Wells on wells")
+
 The variation in well-depth is the star of the show here and is responsible for the scattering. The well depths are calculated using the well number squared, modulo the (prime) number of wells. The result of this is an approximately linear phase response, minimizing comb filtering and strong resonances, which would otherwise result from using well depths that are clean multiples of each other. [Acoustic Fields](https://www.acousticfields.com/quadratic-diffusion-diffused/) and [mh-audio](http://www.mh-audio.nl/Acoustics/diffusor.asp) do a great job of explaining the math and reasoning if you're curious.
 
-<tangent>
+\<tangent\>
 One of the projects I worked on in the past was an RF antenna array that could "steer" its signal emission vector, which effectively works in the same way: Software-induced phase shifts between adjacent antennas force a skewed wave interference pattern that effectively aims the signal off-center. The adjacent wells in a QR diffuser work similarly: Phase shifts resulting from variations in depth from one well to the next cause the reflected sound waves to interfere and effectively scatter off-center. Waves are cool, man.
-</tangent>
+\</tangent\>
 
 ![QRDude](https://alexzahnaudio.com/assets/img/acoustics-qrdude.png "Dude, where's my QR? ...sorry")
 
