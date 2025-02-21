@@ -7,8 +7,6 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Production & Design Work', url: 'production-design'}
-- {name: 'Technical Work',           url: 'technical'}
 - {name: 'About',                    url: 'about'}
 - {name: 'Contact',                  url: 'contact'}
 
