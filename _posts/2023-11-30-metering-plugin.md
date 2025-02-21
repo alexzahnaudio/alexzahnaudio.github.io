@@ -32,7 +32,11 @@ The features of the plugin include...
 
 I also added in some quality of life things, that I wouldn't go so far as to call "features", but are nice nonetheless, like clicking the histogram to refresh, hovering to view dB level at the mouse cursor location, and double-clicking the threshold and goniometer scale sliders to reset them to default values.
 
-I won't do a thorough walkthrough of every aspect of the plugin in this post, but I will offer a general overview, with some special attention to the parts that were my favorite to work on, along with some code snippets. If you'd like to check out the source code in more depth, it's [publicly available on Github](https://github.com/alexzahnaudio/PFM10/tree/main).
+I won't do a thorough walkthrough of every aspect of the plugin in this post, but I will offer a general overview, with some special attention to the parts that were my favorite to work on, along with some code snippets. 
+
+If you'd like to check out the source code in more depth, it's [publicly available on Github](https://github.com/alexzahnaudio/PFM10/tree/main).
+
+You can also watch a [quick video demo here](https://www.instagram.com/p/C2ODXb8BoWR/).
 
 ## The Process
 
