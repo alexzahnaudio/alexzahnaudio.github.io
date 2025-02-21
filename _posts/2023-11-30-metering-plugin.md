@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Metering VST/AU Plugin (C++ and JUCE)"
+title: "Programming - Metering VST/AU Plugin"
 author: "Alex Zahn"
 categories: sample-technical
 tags: [sample-technical]
