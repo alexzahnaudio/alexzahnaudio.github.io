@@ -12,7 +12,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 hide_post_share:     true
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:               "Alex Zahn Audio"
+title:               "alexZahnAudio"
 description:         ""
 author:              "Alex Zahn"
 
