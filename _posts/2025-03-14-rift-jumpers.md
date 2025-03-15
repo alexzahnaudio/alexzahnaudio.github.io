@@ -9,7 +9,7 @@ image: rift-jumpers-logo-light-up.gif
 
 > *Blow your friends' spaceships into smithereens! Watch those smithereens spiral into a black hole! Looking for something more relaxing? Play solo mode and unwind in the tranquil force of 10,000 G's.*
 
-# I'm making an indie game!
+I'm making an indie game!
 
 [Enter your email here if you'd like to try it!](https://forms.gle/eUjrDdLqroVnfcLn6)
 
