@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Walk The Whale - Let Me Land EP"
+title: "Mixing - Walk The Whale 'Let Me Land' EP"
 author: "Alex Zahn"
 categories: sample-production
 tags: [sample-production]
