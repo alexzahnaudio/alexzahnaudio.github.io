@@ -16,3 +16,5 @@ I'm making an indie game!
 You're looking at the entirety of the marketing material at the moment. But only because I've been so hard at work building the thing. I mean, erm, time dilation. Anyway, if you or someone you know has experience launching indie games, or in marketing/community management, let's connect. That would be...
 
 ...stellar.
+
+![alt text](https://alexzahnaudio.com/assets/img/rift-jumper-laser.gif "Purple player nearly melted.")
